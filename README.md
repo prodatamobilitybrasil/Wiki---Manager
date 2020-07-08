@@ -1,8 +1,9 @@
  [![logo-martonis-image]][martonis-url]
-# Cerimonial
+# Manager
 > Tecnologia em segurança para geração de créditos eletrônicos para uso no transporte público e outros sistemas.
 
-O Cerimonal é um aplicativo windows que faz parte de um pacote de solução de alta segurança para geração de créditos eletrônicos desenvolvida pela Prodata Mobility Brasil em parceria com a Martonis Soluções Inteligentes. Essa solução permite que créditos eletrônicos sejam auditáveis pois possuem correspodência direta com o dinheiro real captado pela empresa e seguro devido as multiplas camadas de segurança.
+O Manager é um aplicativo windows que também faz parte de um pacote de solução de alta segurança para geração de créditos eletrônicos desenvolvida pela Prodata Mobility Brasil em parceria com a Martonis Soluções Inteligentes. Essa solução permite que créditos eletrônicos sejam auditáveis pois possuem correspodência direta com o dinheiro real captado pela empresa e seguro devido as multiplas camadas de segurança.
+No caso dete aplicativo o usuário poderá gerar toda a infinidade de cartões que autenticam o sistema bem com a geração e distribuição dos créditos eletrônicos
 
 [Veja mais aqui!](https://github.com/msi-devops/Wiki---Manager/wiki)
 
